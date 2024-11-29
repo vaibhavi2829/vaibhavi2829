@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 🔍 Skills:
+<br>
 •	Create interactive dashboards and reports for data visualization
 <br>
 •	Data cleaning and analysis (Python, Pandas, SQL)
@@ -10,7 +11,9 @@
 •	Data visualization (Power BI, Tableau)
 
 🌱 Currently learning:
+<br>
 •	Machine learning basics
+<br>
 •	More advanced data visualization techniques
 
 

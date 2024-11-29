@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhavi Mishra</h1>
-<h3 align="center">I'm a Data Analyst passionate about turning data into actionable insights.I am eager to apply my knowledge of data analysis, statistics, and visualization to real-world problems. I am currently building my skills in tools like Python, R, SQL, and Excel, and exploring various data visualization libraries such as Matplotlib, Seaborn, and Tableau.</h3>
+<h3 align="left">I'm a Data Analyst passionate about turning data into actionable insights.I am eager to apply my knowledge of data analysis, statistics, and visualization to real-world problems. I am currently building my skills in tools like Python, R, SQL, and Excel, and exploring various data visualization libraries such as Matplotlib, Seaborn, and Tableau.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 🔍 Skills:

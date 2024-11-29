@@ -4,7 +4,9 @@
 
 🔍 Skills:
 •	Create interactive dashboards and reports for data visualization
+<br>
 •	Data cleaning and analysis (Python, Pandas, SQL)
+<br>
 •	Data visualization (Power BI, Tableau)
 
 🌱 Currently learning:
